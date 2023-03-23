@@ -1,0 +1,25 @@
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>illustration_mail</title>
+    <defs>
+        <radialGradient cx="60.9509038%" cy="-26.4895833%" fx="60.9509038%" fy="-26.4895833%" r="77.5765165%" gradientTransform="translate(0.609509,-0.264896),scale(0.735294,1.000000),rotate(10.631707),scale(1.000000,1.333082),translate(-0.609509,0.264896)" id="radialGradient-1">
+            <stop stop-color="#5F5D59" offset="0%"></stop>
+            <stop stop-color="#B3AFAB" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="42.8048218%" cy="16.9417628%" fx="42.8048218%" fy="16.9417628%" r="82.5762462%" gradientTransform="translate(0.428048,0.169418),scale(0.761194,1.000000),translate(-0.428048,-0.169418)" id="radialGradient-2">
+            <stop stop-color="#B3AFAB" offset="0%"></stop>
+            <stop stop-color="#E1DFDD" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="illustration_mail" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mail-/-Basic-/-General-/-Light">
+            <g id="Mail---Back" transform="translate(43.500000, 2.250000)">
+                <path d="M74.0011529,12.4312384 L11.3068087,0.0664564793 C9.63847183,-0.279411546 8.05794215,0.758192529 7.79452054,2.40106565 L0.0674865239,40.3600814 C-0.283742295,42.0029545 0.769944161,43.5593606 2.43828105,43.8187616 L65.2204324,56.1835435 C66.8887693,56.5294115 68.469299,55.4918075 68.7327206,53.8489344 L76.4597546,15.8899186 C76.7231762,14.3335125 75.6694898,12.7771064 74.0011529,12.4312384 Z" id="Path" fill="url(#radialGradient-1)" fill-rule="nonzero"></path>
+                <path d="M74.5753604,12.4586636 L12.024574,0.0664161059 C11.2372215,-0.106902041 10.3623853,0.0664161059 9.75,0.499711474 L37.8322412,35.25 L76.5,13.7585497 C76.0625819,13.0652772 75.362713,12.6319818 74.5753604,12.4586636 Z" id="Path" fill="#B3AFAB" fill-rule="nonzero"></path>
+            </g>
+            <g id="Mail---Front" transform="translate(0.750000, 42.000000)">
+                <path d="M100.322983,50.156281 L88.8150171,4.36289246 C88.0243935,1.30999989 84.861899,-0.608961153 81.7872515,0.176068365 L4.39398241,19.3656788 C1.31933494,20.1507083 -0.613300607,23.2908264 0.177323027,26.343719 L11.5974422,72.1371075 C12.3880658,75.1900001 15.5505604,77.1089612 18.6252078,76.3239316 L96.0184769,57.1343212 C99.1809715,56.3492917 101.113607,53.2091736 100.322983,50.156281 Z" id="Path" fill="url(#radialGradient-2)" fill-rule="nonzero"></path>
+                <path d="M53,47.25 L86.25,0.847806719 C84.9305556,0.0642800029 83.3472222,-0.196895569 81.8518519,0.151338527 L4.35648148,19.3042138 C2.86111111,19.6524479 1.54166667,20.6100917 0.75,21.9159695 L53,47.25 Z" id="Path" fill="#E1DFDD" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
