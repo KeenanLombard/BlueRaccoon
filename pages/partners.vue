@@ -32,7 +32,9 @@
       </p>
     </div>
 
-    <partnersCards />
+    <techCards />
+
+
   </div>
 </template>
 

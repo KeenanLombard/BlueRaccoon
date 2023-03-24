@@ -30,13 +30,13 @@ export default defineComponent({
 <template lang="">
   <div>
     <section
-      class="gradient-form rounded h-full bg-neutral-200 dark:bg-neutral-700">
+      class="gradient-form rounded h-full bg-neutral-200">
       <div class="container h-full md:p-5 sm:p-0 sm:p-5">
         <div
-          class="g-6 flex h-full flex-wrap items-center justify-center text-neutral-800 dark:text-neutral-200">
+          class="g-6 flex h-full flex-wrap items-center justify-center text-neutral-800">
           <div class="w-full">
             <div
-              class="block rounded-lg bg-white shadow-lg dark:bg-neutral-800">
+              class="block rounded-lg bg-white shadow-lg">
               <div class="g-0 lg:flex lg:flex-wrap">
                 <div class="px-4 md:px-0 lg:w-6/12">
                   <div class="md:mx-6 md:p-12">

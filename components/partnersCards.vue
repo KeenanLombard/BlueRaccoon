@@ -126,7 +126,7 @@
 <script>
 export default {};
 </script>
-<style lang="css">
+<style lang="css" scoped>
 .prt-1 {
   background-image: url(../assets/process.png);
   background-size: contain;
@@ -134,7 +134,7 @@ export default {};
   padding: 10rem;
   margin: 1rem;
   border-radius: 5px;
-  border: 2px solid;
+  border: 1px solid;
 }
 .prt-2 {
   background-image: url(../assets/braintree.png);
@@ -152,7 +152,7 @@ export default {};
   padding: 10rem;
   margin: 1rem;
   border-radius: 5px;
-  border: 2px solid;
+  border: 1px solid;
 }
 .prt-4 {
   background-image: url(../assets/4.png);
@@ -161,7 +161,7 @@ export default {};
   padding: 10rem;
   margin: 1rem;
   border-radius: 5px;
-  border: 2px solid;
+  border: 1px solid;
 }
 .prt-5 {
   background-image: url(../assets/5.png);
@@ -170,7 +170,7 @@ export default {};
   padding: 10rem;
   margin: 1rem;
   border-radius: 5px;
-  border: 2px solid;
+  border: 1px solid;
 }
 
 @media only screen and (max-width: 1250px) {

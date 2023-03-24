@@ -170,9 +170,10 @@ import {
 
 const navigation = [
   { name: "Home", href: "/", current: false },
+  { name: "Tech Alliances", href: "/tech", current: false },
   { name: "Software", href: "/software", current: false },
   { name: "Services", href: "/process", current: false },
-  { name: "Markets & Customers", href: "/services", current: false },
+  { name: "Markets & Customers", href: "/markets", current: false },
   { name: "Partners", href: "/partners", current: false },
 ];
 </script>
