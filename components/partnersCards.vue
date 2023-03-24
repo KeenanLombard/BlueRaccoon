@@ -56,8 +56,10 @@
             Flow Factory
           </h5>
           <p class="mb-4 text-base text-neutral-600 dark:text-neutral-200">
-            Masters of Microsoft - A Gold Certified Partner trusted by thousands
-            of customers for their homes and businesses.
+            Flow Factory srl develops document Automation and Document
+            Management solutions are technologically advanced and applicable to
+            all processes in the field of document management, both massive and
+            multi-channel output.
           </p>
           <a href="https://www.objectiflune.com/en/products">
             <button
@@ -78,11 +80,12 @@
         <div class="p-6">
           <h5
             class="mb-2 text-xl font-medium leading-tight text-neutral-800 dark:text-neutral-50">
-            UpLand Software
+            Upland Software
           </h5>
           <p class="mb-4 text-base text-neutral-600 dark:text-neutral-200">
-            Automating Business Communications so you deliver the Customer
-            Experience your customers deserve
+            Upland Software is a leader in enterprise software. Help your sales,
+            marketing, and IT teams engage with customers and manage projects
+            and costs better
           </p>
           <a href="https://www.objectiflune.com/en/products">
             <button
@@ -104,8 +107,12 @@
             Doceo Software
           </h5>
           <p class="mb-4 text-base text-neutral-600 dark:text-neutral-200">
-            Masters of Microsoft - A Gold Certified Partner trusted by thousands
-            of customers for their homes and businesses.
+            We are specialists in the management of digital objects; digital
+            content generation, web document management, validation circuits,
+            automatic document classification, information extraction, weight
+            reduction, quality improvement, content identification, long-term
+            archiving, digital signature, legally valid biometric signature,
+            mass digitization
           </p>
           <a href="https://www.braintree.co.za/">
             <button
