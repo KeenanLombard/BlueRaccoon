@@ -1,10 +1,10 @@
 <template lang="">
   <div>
-    <ol class="border-l-2 border-primary dark:border-primary-500">
+    <ol class="border-l-2 border-primary">
       <li>
         <div class="flex-start flex items-center">
           <div
-            class="-ml-[9px] mr-3 -mt-2 flex h-4 w-4 items-center justify-center rounded-full bg-primary dark:bg-primary-500"></div>
+            class="-ml-[9px] mr-3 -mt-2 flex h-4 w-4 items-center justify-center rounded-full bg-primary"></div>
           <h4 class="-mt-2 text-xl font-semibold">Planning</h4>
         </div>
         <div class="ml-6 mb-6 pb-6">
@@ -13,7 +13,7 @@
             class="text-sm text-primary transition duration-150 ease-in-out hover:text-primary-600 focus:text-primary-600 active:text-primary-700 dark:text-primary-400 dark:hover:text-primary-500 dark:focus:text-primary-500 dark:active:text-primary-600">
             Step 1
           </p>
-          <p class="mt-2 mb-4 text-neutral-600 dark:text-neutral-300">
+          <p class="mt-2 mb-4 text-neutral-600">
             We conduct a thorough analysis of your requirements, define project
             objectives, develop a project roadmap, and allocate resources based
             on project needs.
@@ -41,7 +41,7 @@
             class="text-sm text-primary transition duration-150 ease-in-out hover:text-primary-600 focus:text-primary-600 active:text-primary-700 dark:text-primary-400 dark:hover:text-primary-500 dark:focus:text-primary-500 dark:active:text-primary-600">
             Step 2
           </p>
-          <p class="mt-2 mb-4 text-neutral-600 dark:text-neutral-200">
+          <p class="mt-2 mb-4 text-neutral-600">
             We create user-centric designs, user flows, wireframes, and mockups
             to ensure a seamless and engaging user experience.
           </p>
@@ -59,7 +59,7 @@
             class="text-sm text-primary transition duration-150 ease-in-out hover:text-primary-600 focus:text-primary-600 active:text-primary-700 dark:text-primary-400 dark:hover:text-primary-500 dark:focus:text-primary-500 dark:active:text-primary-600">
             Step 3
           </p>
-          <p class="mt-2 mb-4 text-neutral-600 dark:text-neutral-200">
+          <p class="mt-2 mb-4 text-neutral-600">
             We use cutting-edge technologies and software development practices
             to create reliable, scalable, and high-performing software to suit
             your indevidual needs.
@@ -78,7 +78,7 @@
             class="text-sm text-primary transition duration-150 ease-in-out hover:text-primary-600 focus:text-primary-600 active:text-primary-700 dark:text-primary-400 dark:hover:text-primary-500 dark:focus:text-primary-500 dark:active:text-primary-600">
             Step 4
           </p>
-          <p class="mt-2 mb-4 text-neutral-600 dark:text-neutral-200">
+          <p class="mt-2 mb-4 text-neutral-600">
             We deploy the software on the cloud or the client's infrastructure,
             perform integration and testing, and provide training to ensure a
             smooth transition to the new software.
@@ -97,7 +97,7 @@
             class="text-sm text-primary transition duration-150 ease-in-out hover:text-primary-600 focus:text-primary-600 active:text-primary-700 dark:text-primary-400 dark:hover:text-primary-500 dark:focus:text-primary-500 dark:active:text-primary-600">
             Step 5
           </p>
-          <p class="mt-2 mb-4 text-neutral-600 dark:text-neutral-200">
+          <p class="mt-2 mb-4 text-neutral-600">
             We provide ongoing support, monitoring, and maintenance services to
             ensure the software stays up-to-date, secure, and performs
             optimally, while also addressing any issues and making necessary

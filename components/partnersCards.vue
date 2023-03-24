@@ -2,14 +2,14 @@
   <div class="mx-auto">
     <div class="flex justify-center wrap mx-auto">
       <div
-        class="block max-w-sm bg-white rounded-lg shadow-lg dark:bg-neutral-700 m-5">
+        class="block max-w-sm bg-white rounded-lg shadow-lg m-5">
         <div class="prt-1"></div>
         <div class="p-6">
           <h5
-            class="mb-2 text-xl font-medium leading-tight text-neutral-800 dark:text-neutral-50">
+            class="mb-2 text-xl font-medium leading-tight text-neutral-800">
             Objectif Lune
           </h5>
-          <p class="mb-4 text-base text-neutral-600 dark:text-neutral-200">
+          <p class="mb-4 text-base text-neutral-600">
             Automating Business Communications so you deliver the Customer
             Experience your customers deserve
           </p>
@@ -25,14 +25,14 @@
         </div>
       </div>
       <div
-        class="block max-w-sm bg-white rounded-lg shadow-lg dark:bg-neutral-700 m-5">
+        class="block max-w-sm bg-white rounded-lg shadow-lg m-5">
         <div class="prt-2"></div>
         <div class="p-6">
           <h5
-            class="mb-2 text-xl font-medium leading-tight text-neutral-800 dark:text-neutral-50">
+            class="mb-2 text-xl font-medium leading-tight text-neutral-800">
             Braintree
           </h5>
-          <p class="mb-4 text-base text-neutral-600 dark:text-neutral-200">
+          <p class="mb-4 text-base text-neutral-600">
             Masters of Microsoft - A Gold Certified Partner trusted by thousands
             of customers for their homes and businesses.
           </p>
@@ -48,18 +48,16 @@
         </div>
       </div>
       <div
-        class="block max-w-sm rounded-lg bg-white shadow-lg dark:bg-neutral-700 m-5">
+        class="block max-w-sm rounded-lg bg-white shadow-lg m-5">
         <div class="prt-3"></div>
         <div class="p-6">
           <h5
-            class="mb-2 text-xl font-medium leading-tight text-neutral-800 dark:text-neutral-50">
+            class="mb-2 text-xl font-medium leading-tight text-neutral-800">
             Flow Factory
           </h5>
-          <p class="mb-4 text-base text-neutral-600 dark:text-neutral-200">
+          <p class="mb-4 text-base text-neutral-600">
             Flow Factory srl develops document Automation and Document
-            Management solutions are technologically advanced and applicable to
-            all processes in the field of document management, both massive and
-            multi-channel output.
+            Management solutions
           </p>
           <a href="https://www.objectiflune.com/en/products">
             <button
@@ -75,14 +73,14 @@
     </div>
     <div class="flex justify-center wrap mx-auto">
       <div
-        class="block max-w-sm bg-white rounded-lg shadow-lg dark:bg-neutral-700 m-5">
+        class="block max-w-sm bg-white rounded-lg shadow-lg m-5">
         <div class="prt-4"></div>
         <div class="p-6">
           <h5
-            class="mb-2 text-xl font-medium leading-tight text-neutral-800 dark:text-neutral-50">
+            class="mb-2 text-xl font-medium leading-tight text-neutral-800">
             Upland Software
           </h5>
-          <p class="mb-4 text-base text-neutral-600 dark:text-neutral-200">
+          <p class="mb-4 text-base text-neutral-600">
             Upland Software is a leader in enterprise software. Help your sales,
             marketing, and IT teams engage with customers and manage projects
             and costs better
@@ -99,20 +97,17 @@
         </div>
       </div>
       <div
-        class="block max-w-sm bg-white rounded-lg shadow-lg dark:bg-neutral-700 m-5">
+        class="block max-w-sm bg-white rounded-lg shadow-lg m-5">
         <div class="prt-5"></div>
         <div class="p-6">
           <h5
-            class="mb-2 text-xl font-medium leading-tight text-neutral-800 dark:text-neutral-50">
+            class="mb-2 text-xl font-medium leading-tight text-neutral-800">
             Doceo Software
           </h5>
-          <p class="mb-4 text-base text-neutral-600 dark:text-neutral-200">
+          <p class="mb-4 text-base text-neutral-600">
             We are specialists in the management of digital objects; digital
             content generation, web document management, validation circuits,
-            automatic document classification, information extraction, weight
-            reduction, quality improvement, content identification, long-term
-            archiving, digital signature, legally valid biometric signature,
-            mass digitization
+            automatic document classification
           </p>
           <a href="https://www.braintree.co.za/">
             <button

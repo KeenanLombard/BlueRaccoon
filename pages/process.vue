@@ -10,14 +10,14 @@
     <div class="mx-auto flex justify-center">
       <div class="flex justify-center mx-auto wrap">
         <div
-          class="block max-w-sm rounded-lg shadow-lg dark:bg-neutral-700 m-5 bg-white">
+          class="block max-w-sm rounded-lg shadow-lg m-5 bg-white">
           <div class="srv-1"></div>
           <div class="p-6">
             <h5
-              class="mb-2 text-xl font-medium leading-tight text-neutral-800 dark:text-neutral-50">
+              class="mb-2 text-xl font-medium leading-tight text-neutral-800">
               Process, Content and Security Technology
             </h5>
-            <p class="mb-4 text-base text-neutral-600 dark:text-neutral-200">
+            <p class="mb-4 text-base text-neutral-600">
               Middleware to enhance value and function of existing systems &
               Software to manage, deliver multi-system content to users via
               integrated custom UI's
@@ -35,14 +35,14 @@
           </div>
         </div>
         <div
-          class="block max-w-sm rounded-lg shadow-lg dark:bg-neutral-700 m-5 bg-white">
+          class="block max-w-sm rounded-lg shadow-lg m-5 bg-white">
           <div class="srv-2"></div>
           <div class="p-6">
             <h5
-              class="mb-2 text-xl font-medium leading-tight text-neutral-800 dark:text-neutral-50">
+              class="mb-2 text-xl font-medium leading-tight text-neutral-800">
               Consulting & Advisory Services
             </h5>
-            <p class="mb-4 text-base text-neutral-600 dark:text-neutral-200">
+            <p class="mb-4 text-base text-neutral-600">
               BPM - Optimization/Re-engineering <br />
               Content Management Strategy <br />
               System Migration Consulting <br />
@@ -61,14 +61,14 @@
           </div>
         </div>
         <div
-          class="block max-w-sm rounded-lg shadow-lg dark:bg-neutral-700 m-5 bg-white">
+          class="block max-w-sm rounded-lg shadow-lg m-5 bg-white">
           <div class="srv-3"></div>
           <div class="p-6">
             <h5
-              class="mb-2 text-xl font-medium leading-tight text-neutral-800 dark:text-neutral-50">
+              class="mb-2 text-xl font-medium leading-tight text-neutral-800">
               Technical Services
             </h5>
-            <p class="mb-4 text-base text-neutral-600 dark:text-neutral-200">
+            <p class="mb-4 text-base text-neutral-600">
               Solution Design/Architecture <br />
               Process and Data Mapping <br />
               Technical Scoping & Project Management Change Management <br />

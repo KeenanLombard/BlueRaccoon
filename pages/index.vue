@@ -44,13 +44,13 @@
           <div class="flex-start flex items-center pt-2 md:block md:pt-0">
             <div
               class="-ml-[5px] mr-3 h-[9px] w-[9px] rounded-full bg-neutral-300 dark:bg-neutral-500 md:ml-0 md:mr-0 md:-mt-[5px]"></div>
-            <p class="mt-2 text-sm text-neutral-500 dark:text-neutral-300">
+            <p class="mt-2 text-sm text-neutral-500">
               13.09.2022
             </p>
           </div>
           <div class="mt-2 ml-4 pb-5 md:ml-0">
             <h4 class="mb-1.5 text-xl font-semibold">Our origin</h4>
-            <p class="mb-3 text-neutral-600 dark:text-neutral-300">
+            <p class="mb-3 text-neutral-600">
               Blue Raccoon was founded in 2020 however its history dates back to
               2008 when Objectif Lune Inc established its presence in South
               Africa. Objectif Lune South Africa directly served the African
@@ -63,13 +63,13 @@
           <div class="flex-start flex items-center pt-2 md:block md:pt-0">
             <div
               class="-ml-[5px] mr-3 h-[9px] w-[9px] rounded-full bg-neutral-300 dark:bg-neutral-500 md:ml-0 md:mr-0 md:-mt-[5px]"></div>
-            <p class="mt-2 text-sm text-neutral-500 dark:text-neutral-300">
+            <p class="mt-2 text-sm text-neutral-500">
               25.11.2021
             </p>
           </div>
           <div class="mt-2 ml-4 pb-5 md:ml-0">
             <h4 class="mb-1.5 text-xl font-semibold">The Evolution</h4>
-            <p class="mb-3 text-neutral-600 dark:text-neutral-300">
+            <p class="mb-3 text-neutral-600">
               Since then we continued to trade as Objectif Lune South Africa
               growing, our partner and install base. The OL Connect software
               suite with advanced data-mapping capabilities and a world class
@@ -82,13 +82,13 @@
           <div class="flex-start flex items-center pt-2 md:block md:pt-0">
             <div
               class="-ml-[5px] mr-3 h-[9px] w-[9px] rounded-full bg-neutral-300 dark:bg-neutral-500 md:ml-0 md:mr-0 md:-mt-[5px]"></div>
-            <p class="mt-2 text-sm text-neutral-500 dark:text-neutral-300">
+            <p class="mt-2 text-sm text-neutral-500">
               01.07.2023
             </p>
           </div>
           <div class="mt-2 ml-4 pb-5 md:ml-0">
             <h4 class="mb-1.5 text-xl font-semibold">Where we are today...</h4>
-            <p class="mb-3 text-neutral-600 dark:text-neutral-300">
+            <p class="mb-3 text-neutral-600">
               Positioned as Blue Raccoon (PTY) Ltd, a business focusing on
               process orientated solutions, on a mission to solve and simplify
               complex business processes. Through years of experience in
