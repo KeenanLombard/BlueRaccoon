@@ -51,7 +51,7 @@
                 :class="[
                   item.current
                     ? 'bg-gray-900 text-white'
-                    : 'text-gray-300 hover:bg-gray-700 hover:text-white',
+                    : 'text-white hover:bg-gray-700 hover:text-white',
                   'px-3 py-2 rounded-md text-sm font-medium',
                 ]"
                 :aria-current="item.current ? 'page' : undefined"
@@ -66,7 +66,7 @@
           <Menu as="div" class="relative ml-3">
             <div>
               <MenuButton
-                class="flex rounded-full bg-orange-500 text-sm text-slate-50 focus:outline-none">
+                class="flex rounded-full bg-orange-00 text-sm text-slate-50 focus:outline-none">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   fill="none"
@@ -161,7 +161,7 @@ import {
 
 const navigation = [
   { name: "Home", href: "/", current: false },
-  { name: "Tech Alliances", href: "/tech", current: false },
+  { name: "Technology Alliances", href: "/tech", current: false },
   { name: "Software", href: "/software", current: false },
   { name: "Services", href: "/process", current: false },
   { name: "Markets & Customers", href: "/markets", current: false },

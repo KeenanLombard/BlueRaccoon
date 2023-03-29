@@ -23,7 +23,7 @@ export default {};
 
 <style lang="css">
 .quote {
-  background: linear-gradient(rgba(0, 0, 0, 0.274), rgba(0, 0, 0, 0.7)),
+  background: linear-gradient(rgba(0, 0, 0, 0.174), rgba(0, 0, 0, 0.4)),
     url(~/assets/back.png);
   background-position: center;
   background-repeat: no-repeat;
