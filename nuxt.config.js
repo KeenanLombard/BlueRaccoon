@@ -7,7 +7,7 @@ export default defineNuxtConfig({
   app: {
     head: {
       charset: "utf-16",
-      viewport: "width=500, initial-scale=1",
+      viewport: "width=device-width,initial-scale=1",
       title: "Blue Raccoon - Solve & Simplify",
       meta: [
         {
