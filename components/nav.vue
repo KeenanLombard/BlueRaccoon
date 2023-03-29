@@ -1,5 +1,5 @@
 <template>
-  <Disclosure as="nav" class="bg-black" v-slot="{ open }">
+  <Disclosure as="nav" class="bg-orange-500" v-slot="{ open }">
     <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
       <div class="relative flex h-16 items-center justify-between">
         <div class="absolute inset-y-0 left-0 flex items-center sm:hidden">
@@ -40,16 +40,7 @@
         <div
           class="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
           <div class="flex text-center flex-shrink-0 items-center">
-            <h6 class="text-orange-500"><strong>BlueRaccoon</strong></h6>
-            <!-- <img
-              class="block h-9 w-9 lg:hidden"
-              src="../assets/logo.png"
-              alt="Your Company" />
-            <img
-              class="hidden h-9 w-9 lg:block"
-              src="../assets/logo.png"
-              alt="Your Company" /> -->
-            <h6 class="text-white text-xl">{...}</h6>
+            <img src="~/assets/logo.svg" class="w-14" alt="" />
           </div>
           <div class="hidden sm:ml-6 sm:block">
             <div class="flex space-x-2">
@@ -75,7 +66,7 @@
           <Menu as="div" class="relative ml-3">
             <div>
               <MenuButton
-                class="flex rounded-full bg-gray-800 text-sm text-slate-50 focus:outline-none">
+                class="flex rounded-full bg-orange-500 text-sm text-slate-50 focus:outline-none">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   fill="none"
