@@ -100,7 +100,7 @@
 <style lang="css">
 .vid {
   background: linear-gradient(rgba(0, 0, 0, 0.174), rgba(0, 0, 0, 0.1)),
-    url(~/assets/{...}.png);
+    url(~/assets/peoples.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
