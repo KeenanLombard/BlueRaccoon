@@ -7,12 +7,12 @@
         content="Solve and simplify complex software problems, About us, testemonails" />
     </Head>
 
-    <div>
-      <markets />
+    <div class="mx-auto">
+      <clients class="mx-auto" />
     </div>
 
-    <div>
-      <clients />
+    <div class="mx-auto">
+      <markets />
     </div>
   </div>
 </template>
