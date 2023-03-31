@@ -8,11 +8,11 @@
     </Head>
 
     <div class="mx-auto">
-      <clients class="mx-auto" />
+      <markets />
     </div>
 
     <div class="mx-auto">
-      <markets />
+      <clients class="mx-auto" />
     </div>
   </div>
 </template>
