@@ -44,7 +44,7 @@
           <div class="flex-start flex items-center pt-2 md:block md:pt-0">
             <div
               class="-ml-[5px] mr-3 h-[9px] w-[9px] rounded-full bg-neutral-300 dark:bg-neutral-500 md:ml-0 md:mr-0 md:-mt-[5px]"></div>
-            <p class="mt-2 text-sm text-neutral-500">13.09.2022</p>
+            <p class="mt-2 text-sm text-neutral-500">2008</p>
           </div>
           <div class="mt-2 ml-4 pb-5 md:ml-0">
             <h4 class="mb-1.5 text-xl font-semibold">Our origin</h4>
@@ -61,7 +61,7 @@
           <div class="flex-start flex items-center pt-2 md:block md:pt-0">
             <div
               class="-ml-[5px] mr-3 h-[9px] w-[9px] rounded-full bg-neutral-300 dark:bg-neutral-500 md:ml-0 md:mr-0 md:-mt-[5px]"></div>
-            <p class="mt-2 text-sm text-neutral-500">25.11.2021</p>
+            <p class="mt-2 text-sm text-neutral-500">2020</p>
           </div>
           <div class="mt-2 ml-4 pb-5 md:ml-0">
             <h4 class="mb-1.5 text-xl font-semibold">The Evolution</h4>
@@ -78,7 +78,7 @@
           <div class="flex-start flex items-center pt-2 md:block md:pt-0">
             <div
               class="-ml-[5px] mr-3 h-[9px] w-[9px] rounded-full bg-neutral-300 dark:bg-neutral-500 md:ml-0 md:mr-0 md:-mt-[5px]"></div>
-            <p class="mt-2 text-sm text-neutral-500">01.07.2023</p>
+            <p class="mt-2 text-sm text-neutral-500">2023</p>
           </div>
           <div class="mt-2 ml-4 pb-5 md:ml-0">
             <h4 class="mb-1.5 text-xl font-semibold">Where we are today...</h4>
