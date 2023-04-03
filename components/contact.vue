@@ -1,42 +1,11 @@
-<!-- <template lang="">
-    <div>
-        <GoogleMap
-  api-key="YOUR_GOOGLE_MAPS_API_KEY"
-  style="width: 100%; height: 500px"
-  :center="center"
-  :zoom="15"
-  >
-    <Marker :options="{ position: center }" />
-  </GoogleMap>
-    </div>
-</template>
-<script>
-import { defineComponent } from 'vue'
-import { GoogleMap, Marker } from 'vue3-google-map'
-
-export default defineComponent({
-  components: { GoogleMap, Marker },
-  setup() {
-    const center = { lat: 40.689247, lng: -74.044502 }
-
-    return { center }
-  },
-})
-</script>
-<style lang="">
-    
-</style> -->
-
 <template lang="">
   <div>
-    <section
-      class="gradient-form rounded h-full bg-neutral-200">
+    <section class="gradient-form rounded h-full bg-neutral-200">
       <div class="container h-full md:p-5 sm:p-0 sm:p-5">
         <div
           class="g-6 flex h-full flex-wrap items-center justify-center text-neutral-800">
           <div class="w-full">
-            <div
-              class="block rounded-lg bg-white shadow-lg">
+            <div class="block rounded-lg bg-white shadow-lg">
               <div class="g-0 lg:flex lg:flex-wrap">
                 <div class="px-4 md:px-0 lg:w-6/12">
                   <div class="md:mx-6 md:p-12">
@@ -60,9 +29,11 @@ export default defineComponent({
                           v-model="name"
                           placeholder="Name" />
                       </div>
-                      <div class="border rounded mb-3 text-neutral-400">
-                        <div class="mb-3 xl:w-96">
-                          <select data-te-select-init v-model="intrest">
+                      <div class="text-neutral-400">
+                        <div class="mb-3">
+                          <select
+                            class="w-full h-full border rounded border-2 p-2"
+                            v-model="intrest">
                             <option value="Workflow">Workflow</option>
                             <option value="Security">Security</option>
                             <option value="Automation">Automation</option>
@@ -110,24 +81,18 @@ export default defineComponent({
                   </div>
                 </div>
                 <div
-                  class="flex items-center rounded-b-lg lg:w-6/12 lg:rounded-r-lg lg:rounded-bl-none"
-                  style="
-                    background: linear-gradient(
-                      to right,
-                      #ee7724,
-                      #d8363a,
-                      #dd3675,
-                      #b44593
-                    );
-                  ">
+                  class="flex items-center rounded-b-lg lg:w-6/12 lg:rounded-r-lg lg:rounded-bl-none bg-gradient-to-r from-orange-600 to-orange-500">
                   <div class="px-4 py-6 text-white md:mx-6 md:p-12">
-                    <img
-                      src="../assets/logo.png"
-                      class="image mb-10 w-20 h-20"
-                      alt="" />
-                    <h4 class="mb-6 font-semibold">info@blueraccoon.co.za</h4>
-                    <h4 class="mb-6 font-semibold">
-                      8 Hantamberg Blue Mountain
+                    <img src="../assets/logo.svg" class="image mb-10" alt="" />
+                    <h4 class="mb-6 text-center">
+                      Email:
+                      <a @click="sendMail()" class="hover:text-orange-300"
+                        >info@blueraccoon.co.za</a
+                      >
+                    </h4>
+                    <h4 class="mb-6 text-center">
+                      Phone:
+                      <a class="hover:text-orange-300">082-923-4004</a>
                     </h4>
                     <div class="flex justify-between">
                       <a

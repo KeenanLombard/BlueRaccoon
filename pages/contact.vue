@@ -6,8 +6,9 @@
         name="Contact Us or get a free quote"
         content="Solve and simplify complex software problems, contact us" />
     </Head>
-
-    <contact />
+    <div class="lg:mt-10 md:mt-5">
+      <contact />
+    </div>
   </div>
 </template>
 
