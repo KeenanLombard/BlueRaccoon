@@ -24,17 +24,13 @@
       </svg>
       <p class="pl-5 mt-0.5">
         To visit our partner portal
-        <a
-          class="text-blue-500"
-          href="https://blueraccoonptyltd.sharepoint.com/sites/BlueRaccoonPartners"
-          >click here</a
+        <nuxt-link class="text-blue-500" to="/partner-login"
+          >click here</nuxt-link
         >
       </p>
     </div>
 
     <techCards />
-
-
   </div>
 </template>
 

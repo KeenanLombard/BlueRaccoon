@@ -13,6 +13,7 @@
     "nuxt": "^3.2.2"
   },
   "dependencies": {
-    "@headlessui/vue": "^1.7.12"
+    "@headlessui/vue": "^1.7.12",
+    "firebase": "^9.19.1"
   }
 }
