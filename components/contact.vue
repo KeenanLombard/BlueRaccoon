@@ -1,6 +1,6 @@
 <template lang="">
   <div>
-    <section class="gradient-form rounded h-full bg-neutral-200">
+    <section class="gradient-form rounded h-full">
       <div class="container h-full md:p-5 sm:p-0 sm:p-5">
         <div
           class="g-6 flex h-full flex-wrap items-center justify-center text-neutral-800">
@@ -9,18 +9,13 @@
               <div class="g-0 lg:flex lg:flex-wrap">
                 <div class="px-4 md:px-0 lg:w-6/12">
                   <div class="md:mx-6 md:p-12">
-                    <div class="text-center">
+                    <div class="text-center mx-20">
                       <img
-                        class="mx-auto w-25 h-25"
+                        class="mx-auto w-52 h-25 mx-auto m-10"
                         src="../assets/mail-vector.svg"
                         alt="logo" />
-                      <h5
-                        class="mt-1 mb-12 pb-1 text-xl font-semibold text-orange-400">
-                        BlueRaccoon (PTY) Ltd
-                      </h5>
                     </div>
                     <form>
-                      <p class="mb-4 text-neutral-500">Shoot us a message</p>
                       <div class="relative mb-4" data-te-input-wrapper-init>
                         <input
                           type="text"
@@ -60,20 +55,11 @@
                       </div>
                       <div class="mb-12 pt-1 pb-1 text-center">
                         <button
-                          class="mb-3 inline-block w-full rounded px-6 pt-2.5 pb-2 text-xs font-medium uppercase leading-normal text-white shadow-[0_4px_9px_-4px_rgba(0,0,0,0.2)] transition duration-150 ease-in-out hover:shadow-[0_8px_9px_-4px_rgba(0,0,0,0.1),0_4px_18px_0_rgba(0,0,0,0.2)] focus:shadow-[0_8px_9px_-4px_rgba(0,0,0,0.1),0_4px_18px_0_rgba(0,0,0,0.2)] focus:outline-none focus:ring-0 active:shadow-[0_8px_9px_-4px_rgba(0,0,0,0.1),0_4px_18px_0_rgba(0,0,0,0.2)]"
+                          class="bg-gradient-to-r from-orange-600 to-orange-500 mb-3 inline-block w-full rounded px-6 pt-2.5 pb-2 text-xs font-medium uppercase leading-normal text-white shadow-[0_4px_9px_-4px_rgba(0,0,0,0.2)] transition duration-150 ease-in-out hover:shadow-[0_8px_9px_-4px_rgba(0,0,0,0.1),0_4px_18px_0_rgba(0,0,0,0.2)] focus:shadow-[0_8px_9px_-4px_rgba(0,0,0,0.1),0_4px_18px_0_rgba(0,0,0,0.2)] focus:outline-none focus:ring-0 active:shadow-[0_8px_9px_-4px_rgba(0,0,0,0.1),0_4px_18px_0_rgba(0,0,0,0.2)]"
                           type="button"
                           @click="sendMail()"
                           data-te-ripple-init
-                          data-te-ripple-color="light"
-                          style="
-                            background: linear-gradient(
-                              to right,
-                              #ee7724,
-                              #d8363a,
-                              #dd3675,
-                              #b44593
-                            );
-                          ">
+                          data-te-ripple-color="light">
                           Submit
                         </button>
                       </div>

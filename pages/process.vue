@@ -10,11 +10,10 @@
     <div class="mx-auto flex justify-center">
       <div class="flex justify-center mx-auto wrap">
         <div
-          class="block max-w-sm rounded-lg shadow-lg m-5 bg-white">
+          class="block max-w-sm rounded-lg shadow-lg m-5 bg-white mx-10 my-14">
           <div class="srv-1"></div>
           <div class="p-6">
-            <h5
-              class="mb-2 text-xl font-medium leading-tight text-neutral-800">
+            <h5 class="mb-2 text-xl font-medium leading-tight text-neutral-800">
               Process, Content and Security Technology
             </h5>
             <p class="mb-4 text-base text-neutral-600">
@@ -35,11 +34,10 @@
           </div>
         </div>
         <div
-          class="block max-w-sm rounded-lg shadow-lg m-5 bg-white">
+          class="block max-w-sm rounded-lg shadow-lg m-5 bg-white mx-10 my-14">
           <div class="srv-2"></div>
           <div class="p-6">
-            <h5
-              class="mb-2 text-xl font-medium leading-tight text-neutral-800">
+            <h5 class="mb-2 text-xl font-medium leading-tight text-neutral-800">
               Consulting & Advisory Services
             </h5>
             <p class="mb-4 text-base text-neutral-600">
@@ -61,11 +59,10 @@
           </div>
         </div>
         <div
-          class="block max-w-sm rounded-lg shadow-lg m-5 bg-white">
+          class="block max-w-sm rounded-lg shadow-lg m-5 bg-white mx-10 my-14">
           <div class="srv-3"></div>
           <div class="p-6">
-            <h5
-              class="mb-2 text-xl font-medium leading-tight text-neutral-800">
+            <h5 class="mb-2 text-xl font-medium leading-tight text-neutral-800">
               Technical Services
             </h5>
             <p class="mb-4 text-base text-neutral-600">

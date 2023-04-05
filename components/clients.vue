@@ -5,7 +5,7 @@
     </h1>
     <hr class="m-5" />
     <div class="flex">
-      <div class="flex flex-col clients">
+      <div class="flex flex-col clients lg:mx-20 md:mx-10 sm:mx-0">
         <div class="p-1 m-5 sm:m-0">
           <img class="img" src="~/assets/mtn.png" alt="" />
         </div>
@@ -13,7 +13,7 @@
           <img class="img" src="~/assets/fair_cape.png" alt="" />
         </div>
       </div>
-      <div class="flex flex-col clients">
+      <div class="flex flex-col clients lg:mx-20 md:mx-10 sm:mx-0">
         <div class="p-1 m-5 sm:m-0">
           <img class="img" src="~/assets/mercantile.png" alt="" />
         </div>
@@ -23,7 +23,7 @@
       </div>
     </div>
     <div class="flex">
-      <div class="flex flex-col clients">
+      <div class="flex flex-col clients lg:mx-20 md:mx-10 sm:mx-0">
         <div class="p-1 m-5 sm:m-0">
           <img class="img" src="~/assets/waltons.png" alt="" />
         </div>
@@ -31,7 +31,7 @@
           <img class="img" src="~/assets/motus.png" alt="" />
         </div>
       </div>
-      <div class="flex flex-col clients">
+      <div class="flex flex-col clients lg:mx-20 md:mx-10 sm:mx-0">
         <div class="p-1 m-5 sm:m-0">
           <img class="img" src="~/assets/standard_bank.png" alt="" />
         </div>
@@ -55,6 +55,11 @@
 @media screen and (max-width: 900px) {
   .clients {
     flex-direction: column;
+  }
+}
+@media screen and (max-width: 700px) {
+  .img {
+    max-width: 5rem;
   }
 }
 </style>

@@ -7,7 +7,7 @@
         content="Solve and simplify complex software problems, About us, testemonails" />
     </Head>
 
-    <div class="mx-auto">
+    <div class="mx-auto my-10">
       <markets />
     </div>
 
