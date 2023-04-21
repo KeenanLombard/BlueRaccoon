@@ -24,8 +24,10 @@
       </svg>
       <p class="pl-5 mt-0.5">
         To visit our partner portal
-        <nuxt-link class="text-blue-500" to="/partner-login"
-          >click here</nuxt-link
+        <a
+          class="text-blue-500"
+          href="https://blueraccoon.halopsa.com/portal/home"
+          >click here</a
         >
       </p>
     </div>
