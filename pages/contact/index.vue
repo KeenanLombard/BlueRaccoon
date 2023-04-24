@@ -1,6 +1,6 @@
 <template lang="">
   <div>
-    <img class="contact" src="~/assets/contact.png" alt="" />
+    <img class="contact mx-auto" src="~/assets/contact.png" alt="" />
 
     <div class="grid lg:grid-cols-3 md:grid-cols-1">
       <div
