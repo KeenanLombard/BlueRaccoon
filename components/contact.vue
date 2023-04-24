@@ -19,7 +19,7 @@
                       <div class="relative mb-4" data-te-input-wrapper-init>
                         <input
                           type="text"
-                          class="peer block min-h-[auto] w-full rounded border-2 bg-transparent py-[0.32rem] px-3 leading-[1.6] outline-none transition-all duration-200 ease-linear focus:placeholder:opacity-100 data-[te-input-state-active]:placeholder:opacity-100 motion-reduce:transition-none dark:placeholder:text-neutral-200 [&:not([data-te-input-placeholder-active])]:placeholder:opacity-1"
+                          class="peer block min-h-[auto] w-full rounded border-2 bg-transparent py-[0.32rem] px-3 leading-[1.6] outline-none transition-all duration-200 ease-linear focus:placeholder:opacity-100 data-[te-input-state-active]:placeholder:opacity-100 motion-reduce:transition-none [&:not([data-te-input-placeholder-active])]:placeholder:opacity-1"
                           id="exampleFormControlInput1"
                           v-model="name"
                           placeholder="Name" />
@@ -29,6 +29,7 @@
                           <select
                             class="w-full h-full border rounded border-2 p-2"
                             v-model="intrest">
+                            <option value="">I am interested in:</option>
                             <option value="Workflow">Workflow</option>
                             <option value="Security">Security</option>
                             <option value="Automation">Automation</option>
@@ -47,7 +48,7 @@
                       </div>
                       <div class="relative mb-4" data-te-input-wrapper-init>
                         <textarea
-                          class="peer block min-h-[auto] w-full rounded border-2 bg-transparent py-[0.32rem] px-3 leading-[1.6] outline-none transition-all duration-200 ease-linear focus:placeholder:opacity-100 data-[te-input-state-active]:placeholder:opacity-100 motion-reduce:transition-none dark:text-neutral-200 dark:placeholder:text-neutral-200 [&:not([data-te-input-placeholder-active])]:placeholder:opacity-1"
+                          class="peer block min-h-[auto] w-full rounded border-2 bg-transparent py-[0.32rem] px-3 leading-[1.6] outline-none transition-all duration-200 ease-linear focus:placeholder:opacity-100 data-[te-input-state-active]:placeholder:opacity-100 motion-reduce:transition-none [&:not([data-te-input-placeholder-active])]:placeholder:opacity-1"
                           id="exampleFormControlTextarea1"
                           rows="3"
                           v-model="message"

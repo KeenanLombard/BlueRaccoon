@@ -162,11 +162,11 @@ import {
 } from "@headlessui/vue";
 
 const navigation = [
-  { name: "Home", href: "/", current: false },
   { name: "Technology Alliances", href: "/tech", current: false },
   { name: "Software", href: "/software", current: false },
   { name: "Services", href: "/process", current: false },
   { name: "Markets & Customers", href: "/markets", current: false },
   { name: "Partners", href: "/partners", current: false },
+  { name: "Contact", href: "/contact", current: false },
 ];
 </script>
