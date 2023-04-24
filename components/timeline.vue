@@ -1,8 +1,8 @@
 <template lang="">
   <div>
-    <ol class="border-l-2 border-primary">
+    <ol class="border-l-2 border-orange-500 bg-white p-2 rounded shadow-xl">
       <li>
-        <div class="flex-start flex items-center">
+        <div class="flex-start flex items-center mt-5">
           <div
             class="-ml-[9px] mr-3 -mt-2 flex h-4 w-4 items-center justify-center rounded-full bg-primary"></div>
           <h4 class="-mt-2 text-xl font-semibold">Planning</h4>
@@ -21,7 +21,7 @@
           <a
             href="https://outlook.office365.com/owa/calendar/consultblueracccooncoza@blueraccoon.co.za/bookings/s/fW1JhTF9X0GtGqrAfPxOpA2">
             <button
-              class="rounded bg-blue-500 hover:bg-blue-600 text-white px-4 pt-[6px] pb-[5px] text-xs font-medium uppercase leading-normal shadow-[0_4px_9px_-4px_#3b71ca] transition duration-150 ease-in-out hover:bg-primary-600 hover:shadow-[0_8px_9px_-4px_rgba(59,113,202,0.3),0_4px_18px_0_rgba(59,113,202,0.2)] focus:bg-primary-600 focus:shadow-[0_8px_9px_-4px_rgba(59,113,202,0.3),0_4px_18px_0_rgba(59,113,202,0.2)] focus:outline-none focus:ring-0 active:bg-primary-700 active:shadow-[0_8px_9px_-4px_rgba(59,113,202,0.3),0_4px_18px_0_rgba(59,113,202,0.2)]"
+              class="rounded bg-orange-500 hover:bg-orange-600 text-white px-4 pt-[6px] pb-[5px] text-xs font-medium uppercase leading-normal shadow-[0_4px_9px_-4px_#3b71ca] transition duration-150 ease-in-out hover:bg-orange-600 hover:shadow-[0_8px_9px_-4px_rgba(59,113,202,0.3),0_4px_18px_0_rgba(59,113,202,0.2)] focus:bg-primary-600 focus:shadow-[0_8px_9px_-4px_rgba(59,113,202,0.3),0_4px_18px_0_rgba(59,113,202,0.2)] focus:outline-none focus:ring-0 active:bg-primary-700 active:shadow-[0_8px_9px_-4px_rgba(59,113,202,0.3),0_4px_18px_0_rgba(59,113,202,0.2)]"
               data-te-ripple-init
               data-te-ripple-color="light">
               Click here to Book a meeting
