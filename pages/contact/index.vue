@@ -44,7 +44,7 @@ const data = ref([
     title: "Shoot us a message",
     text: "Email",
     sub_text:
-      "Contact our support team if you are unsure of the services that u require",
+      "Contact our support team if you are unsure of the services that you require",
     href: "http://blueraccoon.co.za/contact/message",
   },
   {
@@ -67,10 +67,10 @@ const data = ref([
     href: "https://go.blueraccoon.co.za/partnerconsult",
   },
   {
-    title: "Book Demo",
+    title: "Book Technical Demo",
     text: "Guided Service",
     sub_text:
-      "One of our team membars will perform a demo and guide you through the process",
+      "One of our team members will perform a demo and guide you through the process",
     href: "https://go.blueraccoon.co.za/demorequest",
   },
 ]);
