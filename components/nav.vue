@@ -37,15 +37,15 @@
             </div>
           </DisclosureButton>
         </div>
-        <div class="flex text-center flex-shrink-0 items-center">
-          <nuxt-link to="/">
-            <img src="~/assets/{...}.png" class="w-32" alt="" />
-          </nuxt-link>
-        </div>
         <div
           class="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
+          <div class="flex text-center flex-shrink-0 items-center">
+            <nuxt-link to="/">
+              <img src="~/assets/newLogo.png" class="w-32" alt="" />
+            </nuxt-link>
+          </div>
           <div class="hidden sm:ml-6 sm:block">
-            <div class="flex space-x-2 my-auto">
+            <div class="flex space-x-2 my-11">
               <nuxt-link
                 v-for="item in navigation"
                 :key="item.name"
