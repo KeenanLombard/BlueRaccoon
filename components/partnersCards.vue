@@ -126,7 +126,6 @@ export default {};
   padding: 10rem;
   margin: 1rem;
   border-radius: 5px;
-  border: 1px solid;
 }
 .prt-2 {
   background-image: url(../assets/braintree.png);
@@ -135,7 +134,6 @@ export default {};
   padding: 10rem;
   margin: 1rem;
   border-radius: 5px;
-  border: 1px solid;
 }
 .prt-3 {
   background-image: url(../assets/flowfactory.png);
@@ -144,7 +142,6 @@ export default {};
   padding: 10rem;
   margin: 1rem;
   border-radius: 5px;
-  border: 1px solid;
 }
 .prt-4 {
   background-image: url(../assets/4.png);
@@ -153,7 +150,6 @@ export default {};
   padding: 10rem;
   margin: 1rem;
   border-radius: 5px;
-  border: 1px solid;
 }
 .prt-5 {
   background-image: url(../assets/5.png);
@@ -162,7 +158,6 @@ export default {};
   padding: 10rem;
   margin: 1rem;
   border-radius: 5px;
-  border: 1px solid;
 }
 
 @media only screen and (max-width: 1250px) {
