@@ -10,6 +10,8 @@
           <p class="mb-4 text-base text-neutral-600">
             Automating Business Communications so you deliver the Customer
             Experience your customers deserve
+            <br />
+            <br />
           </p>
           <a href="https://www.objectiflune.com/en/products">
             <button

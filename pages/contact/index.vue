@@ -11,7 +11,7 @@
           <h5 class="mb-2 text-xl font-medium leading-tight text-neutral-800">
             {{ item.title }}
           </h5>
-          <h5 class="mb-2 text-orange-300">
+          <h5 class="mb-2 text-orange-500">
             {{ item.text }}
           </h5>
           <p class="mb-4 text-base text-sm text-neutral-600">

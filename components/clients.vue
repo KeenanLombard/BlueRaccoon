@@ -1,7 +1,7 @@
 <template lang="">
   <div>
-    <h1 class="text-center text-xl p-5">
-      <strong>Some of our happy customers</strong>
+    <h1 class="text-center text-neutral-600 text-xl p-5">
+      Some of our happy customers
     </h1>
     <hr class="m-5" />
     <div class="flex">
@@ -52,9 +52,9 @@
   border-radius: 10px;
   margin: 30px;
 }
-@media screen and (max-width: 900px) {
+@media screen and (min-width: 1300px) {
   .clients {
-    flex-direction: column;
+    flex-direction: row;
   }
 }
 @media screen and (max-width: 700px) {
