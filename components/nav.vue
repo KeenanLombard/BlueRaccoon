@@ -2,7 +2,7 @@
   <Disclosure as="nav" class="bg-orange-500" v-slot="{ open }">
     <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
       <div class="relative flex h-16 items-center justify-between">
-        <div class="absolute inset-y-0 left-0 flex items-center sm:hidden">
+        <div class="absolute inset-y-0 left-0 flex items-center md:hidden">
           <!-- Mobile menu button-->
           <DisclosureButton
             class="inline-flex items-center justify-center rounded-md p-2 text-gray-400 hover:bg-gray-700 hover:text-white focus:outline-none">
@@ -38,14 +38,17 @@
           </DisclosureButton>
         </div>
         <div
-          class="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
+          class="flex flex-1 items-center justify-center sm:items-stretch md:justify-start">
           <div class="flex text-center flex-shrink-0 items-center">
             <nuxt-link to="/">
-              <img src="~/assets/newLogo.png" class="w-32" alt="" />
+              <img
+                src="~/assets/newLogo.png"
+                class="lg:w-52 md:w-44 w-32"
+                alt="" />
             </nuxt-link>
           </div>
-          <div class="hidden sm:ml-6 sm:block">
-            <div class="flex space-x-2 my-11">
+          <div class="hidden sm:ml-6 md:block">
+            <div class="flex space-x-0 my-12">
               <nuxt-link
                 v-for="item in navigation"
                 :key="item.name"
@@ -63,7 +66,7 @@
           </div>
         </div>
         <div
-          class="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
+          class="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0 md:hidden">
           <!-- Profile dropdown -->
           <Menu as="div" class="relative ml-3">
             <div>

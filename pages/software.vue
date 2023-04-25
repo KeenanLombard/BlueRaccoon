@@ -155,7 +155,7 @@ export default {};
   border-radius: 5px;
 }
 .prt-4 {
-  background-image: url(../assets/ic.png);
+  background-image: url(../assets/ica.png);
   background-size: contain;
   background-position: center;
   padding: 10rem;
@@ -163,9 +163,10 @@ export default {};
   border-radius: 5px;
 }
 .prt-5 {
-  background-image: url(../assets/4.png);
+  background-image: url(../assets/if.png);
   background-size: contain;
   background-position: center;
+  background-repeat: no-repeat;
   padding: 10rem;
   margin: 1rem;
   border-radius: 5px;
