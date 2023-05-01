@@ -87,35 +87,32 @@
   </div>
 </template>
 
-<style lang="css">
+<style lang="css" scoped>
 .srv-1 {
-  background-image: url(../assets/8906821a6dfd4171341caa9e6d71fea1.jpg);
+  background-image: url(../assets/info/2.png);
   padding: 10rem;
   background-size: cover;
   background-position: center;
   margin: 1rem;
   border-radius: 5px;
-  border: 2px solid;
 }
 
 .srv-2 {
-  background-image: url(../assets/18c896df2e453bd8073ac52a00146100.jpg);
+  background-image: url(../assets/info/3.png);
   padding: 10rem;
   background-size: cover;
   background-position: center;
   margin: 1rem;
   border-radius: 5px;
-  border: 2px solid;
 }
 
 .srv-3 {
-  background-image: url(../assets/6c3663c1a30c599ee62238937c60219a.jpg);
+  background-image: url(../assets/info/4.png);
   padding: 10rem;
   background-size: cover;
   background-position: center;
   margin: 1rem;
   border-radius: 5px;
-  border: 2px solid;
 }
 
 @media only screen and (max-width: 1250px) {

@@ -24,9 +24,7 @@
       </svg>
       <p class="pl-5 mt-0.5">
         To visit our self-help portal
-        <a
-          class="text-blue-500"
-          href="https://blueraccoon.halopsa.com/portal/home"
+        <a class="text-blue-500" href="https://portal.blueraccoon.co.za/"
           >click here</a
         >
       </p>
@@ -36,7 +34,7 @@
   </div>
 </template>
 
-<style lang="css">
+<style lang="css" scoped>
 .srv-1 {
   background-image: url(../assets/8906821a6dfd4171341caa9e6d71fea1.jpg);
   padding: 10rem;
