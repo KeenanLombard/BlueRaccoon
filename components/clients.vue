@@ -48,7 +48,8 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  max-width: 12rem;
+  min-width: 12rem;
+  max-height: 6rem;
   border-radius: 10px;
   margin: 30px;
 }
