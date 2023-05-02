@@ -78,7 +78,7 @@ const data = ref([
     title: "Become a partner",
     text: "Free Service",
     sub_text:
-      "Have a discussion with one of our digital transformation consultants",
+      "As a partner, you'll have access to our industry-leading technology and resources.",
     href: "https://go.blueraccoon.co.za/FreeConsult",
   },
 ]);

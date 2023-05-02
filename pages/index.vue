@@ -34,19 +34,20 @@
             role="button"
             >Learn More</nuxt-link
           >
+          <div class="m-10">
+            <h1 class="text-center text-neutral-600 text-xl">
+              <strong>Master Distributer</strong>
+            </h1>
+            <p class="text-center text-neutral-500">for SADC Region</p>
+            <div class="">
+              <img class="ol mx-auto" src="~/assets/ol.png" alt="" />
+              <img class="ul mx-auto" src="~/assets/4.png" alt="" />
+            </div>
+          </div>
         </div>
       </div>
     </div>
-    <div class="mx-auto rounded shadow-xl sm:mx-20 p-20 m-20 bg-white">
-      <h1 class="text-center text-neutral-600 text-xl">
-        <strong>Master Distributer</strong>
-      </h1>
-      <p class="text-center text-neutral-500">for SADC Region</p>
-      <div>
-        <img class="ol mx-auto" src="~/assets/ol.png" alt="" />
-        <img class="ul mx-auto" src="~/assets/4.png" alt="" />
-      </div>
-    </div>
+
     <div class="mx-auto rounded shadow-xl sm:mx-20 p-20 m-20 bg-white">
       <ol
         class="border-l border-slate-500 dark:border-neutral-500 md:flex md:justify-center md:gap-6 md:border-l-0 md:border-t">
