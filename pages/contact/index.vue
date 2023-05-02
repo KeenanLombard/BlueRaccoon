@@ -71,7 +71,7 @@ const data = ref([
     text: "Self Help Service",
     sub_text:
       "Sign in to log queries, manage payments, view documentation and other services.",
-    href: "http://go.blueraccoon.co.za/portal",
+    href: "https://portal.blueraccoon.co.za/",
   },
   {
     title: "Book Consultation",
