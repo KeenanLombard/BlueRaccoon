@@ -39,7 +39,7 @@
               <strong>Master Distributer</strong>
             </h1>
             <p class="text-center text-neutral-500">for SADC Region</p>
-            <div class="">
+            <div>
               <img class="ol mx-auto" src="~/assets/ol.png" alt="" />
               <img class="ul mx-auto" src="~/assets/4.png" alt="" />
             </div>
@@ -118,9 +118,11 @@
 }
 .ol {
   width: 20rem;
+  transition: 0.5s ease;
 }
 .ul {
   width: 10rem;
+  transition: 0.5s ease;
 }
 .ol:hover {
   width: 22rem;

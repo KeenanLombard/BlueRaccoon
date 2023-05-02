@@ -8,7 +8,7 @@
     </Head>
 
     <div
-      class="text-sm mb-4 rounded-lg bg-primary-100 py-4 mt-10 px-6 text-base text-neutral-600 flex justify-center"
+      class="text-sm mb-4 rounded-lg bg-primary-100 py-4 mt-10 px-6 text-base text-neutral-800 flex justify-center"
       role="alert">
       <svg
         xmlns="http://www.w3.org/2000/svg"
