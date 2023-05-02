@@ -2,7 +2,9 @@
   <div>
     <div class="flex mx-10 py-10">
       <div>
-        <a href=""><img class="icon" src="~/assets/icons/11.png" alt="" /></a>
+        <a @click="sendMail()"
+          ><img class="icon" src="~/assets/icons/11.png" alt=""
+        /></a>
       </div>
       <div>
         <a href=""><img class="icon" src="~/assets/icons/12.png" alt="" /></a>
@@ -59,6 +61,10 @@
   </div>
 </template>
 <script setup>
+const sendMail = () => {
+  window.open(`mailto:info@blueraccoon.co.za`);
+};
+
 const data = ref([
   {
     title: "Self-Service Portal",
