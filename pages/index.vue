@@ -36,7 +36,7 @@
           >
           <div class="m-10">
             <h1 class="text-center text-neutral-600 text-xl">
-              <strong>Master Distributer</strong>
+              <strong>Master Distributor</strong>
             </h1>
             <p class="text-center text-neutral-500">for SADC Region</p>
             <div>
